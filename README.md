@@ -22,5 +22,3 @@ liking/disliking these "posts"
 placing comments on other peoples posts (comments can also have code blocks)
 a secure login system
 a user profile where they can see liked posts, placed comments and uploaded posts, add a profile picture, display name, link their github.
-
-=================================================================================================================================================================================================================================
