@@ -1,7 +1,7 @@
 # CodeLace 
 
 **CodeLace** is a platform for developers to share, discover, and discuss code snippets in a social, interactive way.  
-Think of it as a blend between a code-sharing tool and a lightweight social feed — where code is the main content.
+Think of it as a blend between a code-sharing tool and a lightweight social feed, where code is the main content.
 
 Users can post snippets, interact through comments, and engage with other developers' ideas in a clean and structured environment.
 
